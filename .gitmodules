@@ -1,0 +1,3 @@
+[submodule "inls161-revealjs"]
+	path = inls161-revealjs
+	url = https://github.com/Jzbonner/inls161-revealjs
